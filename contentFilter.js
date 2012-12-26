@@ -1,0 +1,1 @@
+(function(){function d(a){try{var b=/(^ext:.*[^http])http:/;a.match(b)&&(a=a.replace(b,"http:"));return a}catch(c){return"#"}}for(var b=document.getElementsByTagName("a"),a=0;a<b.length;a++){var c=b[a].getAttribute("href");c&&b[a].setAttribute("href",d(c))}})();
