@@ -1,11 +1,11 @@
 {
     "name": "UC特殊链接处理",
-    "version": "2.0.1.0",
+    "version": "2.0.1.2",
     "description": "该插件可以用于乐园开发时，将页面中存在的以ext:开始的地址进行过滤，还原为http:格式，有利于同学使用Chrome调试页面时不用每次处理这部分的链接（guojf2@ucweb.com)",
     "icons":{
-        "16":"icon.png",
-        "48":"icon.png",
-        "128":"icon.png"
+        "16":"ucweb.png",
+        "48":"ucweb.png",
+        "128":"ucweb.png"
     },
     "permissions": [
         "tabs",
